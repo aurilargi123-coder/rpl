@@ -14,7 +14,7 @@ $waktu = date('d-m-Y H:i:s');
 <body>
     <h1><?= htmlspecialchars($namaAplikasi) ?></h1>
 
-    <p>Aplikasi praktikum Rekayasa Perangkat Lunak.</p>
+    <p>rpl.</p>
 
     <p>
         Waktu server:
