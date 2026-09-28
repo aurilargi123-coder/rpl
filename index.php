@@ -1,5 +1,5 @@
 <?php
-$namaAplikasi = 'tk24';
+$namaAplikasi = '$namaAplikasi = 'Aplikasi Laboratorium';';
 $waktu = date('d-m-Y H:i:s');
 ?>
 
