@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 $namaAplikasi = '$namaAplikasi = 'Aplikasi Laboratorium';';
+=======
+$namaAplikasi = '$namaAplikasi = 'Sistem Inventaris TK24';';
+>>>>>>> konflik-b
 $waktu = date('d-m-Y H:i:s');
 ?>
 
